@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-""" Homework 1 Lab2 #2
+""" Minh Chau
+    Testing github
 """
 
 while True:
